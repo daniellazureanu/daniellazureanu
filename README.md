@@ -1,3 +1,1 @@
-# Daniel
-
-_Who needs graphics when you got the console_
+Hey there! I'm an **ITC** student, and I like to create **console-based applications.**
