@@ -1,4 +1,4 @@
-Hey there! I'm an **ITC** student, and I like to create **console-based applications.**
+Hey there! I'm an **ICT** student, and I like to create **console-based applications.**
 
 You can find me on Discord:  
   
