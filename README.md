@@ -1,6 +1,6 @@
 Hey there! I'm an **ICT** student, and I like to create **console-based applications.**
 
-**My portfolio: [Click here](https://daniellazureanu.github.io/web/)**
+**Personal website: https://daniellazureanu.me/**
 
 You can find me on Discord:  
   
