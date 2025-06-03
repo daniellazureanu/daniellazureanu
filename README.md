@@ -2,7 +2,7 @@ Hey there! I'm an **ICT** student, and I like to create **console-based applicat
 
 **Personal website: https://daniellazureanu.me/**
 
-**My game: https://daniellazureanu.me/fishing_game/**
+**My game: https://daniellazureanu.github.io/Fishing_Incremental/**
 
 You can find me on Discord:  
   
