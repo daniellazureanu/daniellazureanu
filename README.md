@@ -1,4 +1,4 @@
-### <p align="center">Hey there! I'm an <b>ICT</b> student, with <b>Software & Web Development </b>experience</p>
+<p align="center">Hey there! I'm an <b>ICT</b> student, with <b>Software & Web Development </b>experience</p>
 
 ---
 <p align="center">
