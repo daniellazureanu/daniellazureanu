@@ -1,9 +1,13 @@
 <p align="center">Hey there! I'm an <b>ICT</b> student, with Software & Web Development experience</p>
 
 ---
-**<p align="center">[Personal website](https://daniellazureanu.me/)</p>**
+<p align="center">
+  <a href ="https://daniellazureanu.me/" target="_blank">Personal website</a>
+</p>
 
-**<p align="center">[Check out my game!](https://daniellazureanu.github.io/Fishing_Incremental/)</p>**
+<p align="center">
+  <a href="https://daniellazureanu.github.io/Fishing_Incremental/" target="_blank">Check out my game!</a>
+</p>
 
 ---
 <table align="center">
@@ -18,7 +22,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Image" />
     </td>
     <td valign="middle">
-      <a href = "https://www.instagram.com/daniel.lazureanu/">daniel.lazureanu</a>
+      <a href = "https://www.instagram.com/daniel.lazureanu/" target="_blank">daniel.lazureanu</a>
     </td>
   </tr>
 </table>
