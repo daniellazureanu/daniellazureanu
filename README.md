@@ -1,13 +1,8 @@
 <p align="center">Hey there! I'm an <b>ICT</b> student, with <b>Software & Web Development </b>experience</p>
 
 ---
-<p align="center">
-  <a href ="https://daniellazureanu.me/" target="_blank">Personal website</a>
-</p>
-
-<p align="center">
-  <a href="https://daniellazureanu.github.io/Fishing_Incremental/" target="_blank">Check out my game!</a>
-</p>
+### <p align="center"> <a href ="https://daniellazureanu.me/" target="_blank">• Personal website</a> </p>
+<p align="center"> <a href="https://daniellazureanu.github.io/Fishing_Incremental/" style="text-decoration:none;">• Check out my game!</a> </p>
 
 ---
 <table align="center">
