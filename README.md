@@ -1,4 +1,10 @@
-<p align="center">Hey there! I'm an <b>ICT</b> student, with <b>Software & Web Development </b>experience</p>
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">Hey there! I'm an <b>ICT</b> student, with <b>Software & Web Development </b>experience</p>
+    </td>
+  </tr>
+</table>
 
 ---
 ### <p align="center"> <a href ="https://daniellazureanu.me/" target="_blank">• Personal website</a> </p>
